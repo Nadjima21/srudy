@@ -1,0 +1,2 @@
+echo "today is the best"
+echo "but tomorrow gonna be better"
